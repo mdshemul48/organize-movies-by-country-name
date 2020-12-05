@@ -1,10 +1,12 @@
-# _organize movies by country name_
-You need to have Python and PIP installed on your system for this.
+# _Organize movies by country name_
+In order to do that, You need to have Python and PIP installed on your system. 
 
-First download the Repository. Then open CMD on the folder 
+First download the Repository. Then open CMD on that folder. 
 
-**`pip install requirements.txt`**
+```sh
+$ pip install requirements.txt
+```
 
-you all set!
+You all set!
 
 Now open the main.py file and provide the required information there.
